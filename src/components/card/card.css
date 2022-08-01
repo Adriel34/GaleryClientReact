@@ -1,0 +1,52 @@
+
+
+
+.card {
+  border: 1px solid black;
+  width: 50%;
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  flex-direction: column;
+  
+  padding: 25px;
+  font-size: 20px;
+}
+
+.card-img-top {
+ width: 30px;
+ padding: 100px;
+ margin: 20px;
+ height: 80px;
+ background-repeat: no-repeat;
+ background-size: 100%;
+ padding-bottom: 52px;
+}
+.card-img-top img{
+  width: 228px;
+  margin: -100px;
+  
+}
+
+@media (max-width: 1100px){    /* SMARTPHONE*/
+  .card-img-top{
+  width: 5px;
+  }}
+
+.card-img-top p{
+  text-align: start;
+  white-space: nowrap;
+ margin-left: -60px;
+
+ margin-top: -5px;
+}
+.dados{
+width: 80%;
+margin: 17px;
+border-radius: 10px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+background-color: #f2f2f2;
+padding: 10px;
+}

@@ -1,0 +1,28 @@
+{
+    "clientes": [
+        {
+        "nome": "Maria da Silva",
+        "idade": 50,
+        "temFilhos": false,
+        "src": "https://www.dailybase.nl/wp-content/uploads/2019/06/gile-16-1024x1024.jpg"
+        },
+        {
+        "nome": "Joana Pereira",
+        "idade": 29,
+        "temFilhos": true,
+        "src": "https://pbs.twimg.com/profile_images/523448933935091714/b480_08F.jpeg"
+        },
+        {
+        "nome": "Nathalia Melo",
+        "idade": 43,
+        "temFilhos": true,
+        "src":"https://profile-images.xing.com/images/7d3bb6482874711417b888e2bd8cc3a9-1/anna-bauer.1024x1024.jpg"
+        },
+        {
+        "nome": "Marcelo Campos",
+        "idade": 75,
+        "temFilhos": true,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8Ea9cyIi_U8y7mgzqX1SitKtppQOzlciXA&usqp=CAU"
+        }
+    ]
+}
